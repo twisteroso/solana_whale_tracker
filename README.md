@@ -3,7 +3,6 @@
 Real-time alerts for any Solana transaction worth $500k+ (SOL & tokens) via Solscan API.
 
 
-
 ## Run
 
 ```bash
